@@ -1,0 +1,18 @@
+{
+  "name": "timers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/timers.js",
+  "scripts": {
+    "test": "node test.runner"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.16.1",
+    "q": "^1.4.1"
+  },
+  "engines": {
+    "node": "6"
+  }
+}
